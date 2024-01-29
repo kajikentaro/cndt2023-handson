@@ -16,5 +16,5 @@ spec:
         backend:
           service:
             name: handson
-            port:
-              name: http
+            port: 
+              name: http-app
