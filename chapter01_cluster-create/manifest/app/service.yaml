@@ -11,6 +11,6 @@ spec:
   - name: http-app
     port: 9999
     protocol: TCP
-    targetPort: httphoge
+    targetPort: http-app
   selector:
     app: handson
